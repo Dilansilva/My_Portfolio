@@ -1,0 +1,74 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.profile {
+    height: 12%;
+    width: 12%;
+}
+
+.hrLine {
+    border: 10px solid white;
+    border-radius: 5px;
+  }
+
+.alignProimage {
+    margin-top: 25px;
+}
+
+#dilanSilva {
+    opacity: 0.7;
+    margin-top: 10px;
+}
+
+.alignSoftwareDeveloperimage {
+    margin-top: 10px;
+    height: 15%;
+    width: 15%;
+}
+
+#linkedIn {
+    height: 10%;
+    width: 8%;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+#gitHub {
+    margin-top: 8px;
+}
+
+#linkedIngitHub {
+    margin-top: 10px;
+}
+
+.googleFont {
+    font-family: 'Antic Slab', serif;
+}
+
+.margintop{
+    margin-top: 20px;
+}
+
+/* Project Sessio */
+
+.projectDivision {
+   background-color: #F0F0F0;
+
+}
+
+.projectimg {
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.projecthrLine {
+    border: 2px solid #F0F0F0;
+    border-radius: 5px;
+  }
+
+.techskills {
+    display: inline-block;
+}
